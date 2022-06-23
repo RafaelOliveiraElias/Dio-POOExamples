@@ -1,0 +1,15 @@
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.csproj.AssemblyReference.cache
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.AssemblyInfoInputs.cache
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.AssemblyInfo.cs
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.csproj.CoreCompileInputs.cache
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/bin/Debug/net6.0/exemploPOO
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/bin/Debug/net6.0/exemploPOO.deps.json
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/bin/Debug/net6.0/exemploPOO.runtimeconfig.json
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/bin/Debug/net6.0/exemploPOO.dll
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/bin/Debug/net6.0/exemploPOO.pdb
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.dll
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/refint/exemploPOO.dll
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.pdb
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/exemploPOO.genruntimeconfig.cache
+/home/rafael/Documentos/projetosDio/POO-dio/exemploPOO/obj/Debug/net6.0/ref/exemploPOO.dll
