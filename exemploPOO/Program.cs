@@ -1,5 +1,11 @@
 ﻿using exemploPOO.Models;
 
+
+
+
+
+System.Console.WriteLine("-------HERANÇA e POLIFORMISMO:---------");
+
 Aluno p2 = new Aluno();
 
 p2.Nota = 8;

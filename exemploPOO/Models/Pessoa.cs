@@ -11,7 +11,7 @@ namespace exemploPOO.Models
 
         public int Idade { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             System.Console.WriteLine($"Olá meu nome é {this.Nome}, tenho {this.Idade} anos");
         }
