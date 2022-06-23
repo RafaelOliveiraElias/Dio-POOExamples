@@ -1,10 +1,20 @@
 ﻿using exemploPOO.Models;
 
 
+System.Console.WriteLine("-----------Classes abstratas:-----------");
+
+Corrente c = new Corrente();
+c.Creditar(100);
+
+c.ExibirSaldo();
 
 
 
 System.Console.WriteLine("-------HERANÇA e POLIFORMISMO:---------");
+
+Calculadora calc = new Calculadora();
+System.Console.WriteLine("resultado da primeira soma: " + calc.Somar(1, 2));
+System.Console.WriteLine("resultado da segunda soma: " + calc.Somar(1, 2, 5));
 
 Aluno p2 = new Aluno();
 
