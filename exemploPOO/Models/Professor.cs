@@ -8,6 +8,10 @@ namespace exemploPOO.Models
     public class Professor : Pessoa
     {
         public int Salario { get; set; }
+
+
+        // public sealed override void Apresentar() >> trava no diretor
+
         public override void Apresentar()
         {
             System.Console.WriteLine($"Olá meu nome é {this.Nome}, tenho {this.Idade} anos e sou um Professor@");

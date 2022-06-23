@@ -1,5 +1,10 @@
 ﻿using exemploPOO.Models;
 
+System.Console.WriteLine("-----------Classe Object:-----------");
+
+Computador comp = new Computador();
+System.Console.WriteLine(comp.ToString());
+
 
 System.Console.WriteLine("-----------Classes abstratas:-----------");
 
@@ -7,8 +12,6 @@ Corrente c = new Corrente();
 c.Creditar(100);
 
 c.ExibirSaldo();
-
-
 
 System.Console.WriteLine("-------HERANÇA e POLIFORMISMO:---------");
 
