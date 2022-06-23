@@ -1,4 +1,11 @@
-﻿using exemploPOO.Models;
+﻿using exemploPOO.Interfaces;
+using exemploPOO.Models;
+
+System.Console.WriteLine("-----------inteface:-----------");
+
+ICalculadora calc = new Calculadora();
+System.Console.WriteLine(calc.Somar(10, 20));
+
 
 System.Console.WriteLine("-----------Classe Object:-----------");
 
@@ -15,9 +22,9 @@ c.ExibirSaldo();
 
 System.Console.WriteLine("-------HERANÇA e POLIFORMISMO:---------");
 
-Calculadora calc = new Calculadora();
-System.Console.WriteLine("resultado da primeira soma: " + calc.Somar(1, 2));
-System.Console.WriteLine("resultado da segunda soma: " + calc.Somar(1, 2, 5));
+// Calculadora calc = new Calculadora();
+// System.Console.WriteLine("resultado da primeira soma: " + calc.Somar(1, 2));
+// System.Console.WriteLine("resultado da segunda soma: " + calc.Somar(1, 2, 5));
 
 Aluno p2 = new Aluno();
 
